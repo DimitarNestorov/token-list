@@ -1,5 +1,5 @@
 {
-  "name": "token-list",
+  "name": "@dimitarnestorov/token-list",
   "version": "0.0.1",
   "description": "DOMTokenList with a legal constructor",
   "main": "src/index.js",
